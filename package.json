@@ -1,0 +1,13 @@
+{
+  "name": "exam-management-system",
+  "version": "1.0.0",
+  "description": "Exam Management System - Upload this to Netlify to use it online. Includes student, exam, result, and report management.",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Static site - no build required' && exit 0",
+    "start": "echo 'Static site ready for deployment'"
+  },
+  "keywords": ["exam", "management", "education", "static"],
+  "author": "",
+  "license": "ISC"
+}
